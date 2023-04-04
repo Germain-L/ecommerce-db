@@ -90,3 +90,4 @@ CREATE TABLE fullfils(
    FOREIGN KEY(product_id) REFERENCES product(id),
    FOREIGN KEY(orders_id) REFERENCES orders(id)
 );
+
