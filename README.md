@@ -1,6 +1,10 @@
-# Cahier des charges
+# Cahier des charges - Groupe 4
 
 Dump de la base de données disponible dans `dump.sql`
+
+## Membres du groupe : 
+ - Thomas BARILLE
+ - Germain LEIGNEL
 
 ## But de la base de données e-commerce
 Le but de cette base de données est de gérer un système de ecommerce en stockant et en organisant les informations relatives aux clients, aux produits, aux catégories, aux méthodes de paiement, aux commandes, aux adresses et aux images. La base de données permettra aux clients de naviguer dans les catégories, de rechercher des produits, de passer des commandes, de laisser des avis et d'effectuer des paiements.
